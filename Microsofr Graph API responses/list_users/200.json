@@ -1,0 +1,83 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users",
+  "value": [
+    {
+      "businessPhones": [],
+      "displayName": "AARON",
+      "givenName": "AARON",
+      "jobTitle": "Business development specialist",
+      "mail": "aaron@ZulipChat.onmicrosoft.com",
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": null,
+      "userPrincipalName": "aaron@ZulipChat.onmicrosoft.com",
+      "id": "4dbd4c6f-163d-40b7-901b-e86b2f2141ae"
+    },
+    {
+      "businessPhones": ["16508158245"],
+      "displayName": "Alya Abbott",
+      "givenName": "Alya",
+      "jobTitle": null,
+      "mail": "alya@ZulipChat.onmicrosoft.com",
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": "en",
+      "surname": "Abbott",
+      "userPrincipalName": "alya@ZulipChat.onmicrosoft.com",
+      "id": "3c6ee395-529d-4681-b5f7-582c707570f6"
+    },
+    {
+      "businessPhones": [],
+      "displayName": "Cordelia",
+      "givenName": "Cordelia",
+      "jobTitle": null,
+      "mail": "cordelia@ZulipChat.onmicrosoft.com",
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": null,
+      "userPrincipalName": "cordelia@ZulipChat.onmicrosoft.com",
+      "id": "bcbf26d8-e24a-4298-b6fd-d2320ff09fa5"
+    },
+    {
+      "businessPhones": [],
+      "displayName": "Guest Guy",
+      "givenName": "Guest",
+      "jobTitle": null,
+      "mail": "guest@ZulipChat.onmicrosoft.com",
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": "Guy",
+      "userPrincipalName": "guest@ZulipChat.onmicrosoft.com",
+      "id": "03dfa7d8-1d7e-4ead-972c-1f9df51afb3b"
+    },
+    {
+      "businessPhones": [],
+      "displayName": "Pieter K",
+      "givenName": "Pieter",
+      "jobTitle": null,
+      "mail": "pieterk@ZulipChat.onmicrosoft.com",
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": "K",
+      "userPrincipalName": "pieterk@ZulipChat.onmicrosoft.com",
+      "id": "88cbf3c2-0810-4d32-aa19-863c12bf7be9"
+    },
+    {
+      "businessPhones": [],
+      "displayName": "zoe",
+      "givenName": "zoe",
+      "jobTitle": null,
+      "mail": "zoe@ZulipChat.onmicrosoft.com",
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": null,
+      "userPrincipalName": "zoe@ZulipChat.onmicrosoft.com",
+      "id": "5dbe468a-1e96-4aaa-856d-cdf825081e11"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "error": {
+    "code": "Request_ResourceNotFound",
+    "message": "Resource '88cbf3c2-0810-4d32-aa19-863c12bf7be9' does not exist or one of its queried reference-property objects are not present.",
+    "innerError": {
+      "date": "2025-10-14T09:31:20",
+      "request-id": "c2cc22e9-5b91-4925-a249-3d5b2c47a841",
+      "client-request-id": "c2cc22e9-5b91-4925-a249-3d5b2c47a841"
+    }
+  }
+}
